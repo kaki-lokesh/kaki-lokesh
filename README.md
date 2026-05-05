@@ -40,5 +40,5 @@ I'm a cybersecurity student building hands-on skills in Application Security and
 ## 📫 Connect
 
 - LinkedIn: https://www.linkedin.com/in/lokeshkaki26
-- Email: Ikaki@student.gitam.edu
-- TryHackMe: [Your THM profile]
+- Email: lkaki@student.gitam.edu
+- TryHackMe: 
